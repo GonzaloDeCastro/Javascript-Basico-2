@@ -1,9 +1,10 @@
 /*
 4.- Crear una variable que contenga el valor 'La Manzana es Verde' y utilizarlo para:
-a.- Convertirlo a minúscula y mostrar el resultado (método toLowerCase).
+b.- Obtener los últimos 4 caracteres del string (método substring).
 */
+
 var palabra;
 
 palabra='La Manzana es Verde';
 
-alert(palabra.toLowerCase());
+alert(palabra.substring(palabra.length -4));
