@@ -10,4 +10,4 @@ palabra='La Manzana es Verde';
 
 arreglo = palabra.split(' ');
 
-alert(arreglo);
+console.log(arreglo);

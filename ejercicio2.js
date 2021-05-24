@@ -8,3 +8,17 @@ var frutas = ["naranja","manzana","pera"];
 for (i=0; i<frutas.length; i++){
     console.log(frutas[i])
 }
+
+/*
+var frutas = ["naranja","manzana","pera"], oracion;
+oracion = '';
+
+for (i=0; i<frutas.length; i++){
+    oracion = oracion + frutas[i];
+}
+
+alert(oracion);
+
+
+
+*/
